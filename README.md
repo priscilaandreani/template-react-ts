@@ -1,4 +1,4 @@
-## template
+## template react w/ typescript eslint prettier confs
 
 dev_
 @priscilaandreani
@@ -11,10 +11,10 @@ dev_
 
 ### tech
 
-* Typescript
-* React
-* StyledComponents
-* Yarn
+* typescript
+* react
+* styledComponents
+* yarn
 
 ### libs
 
@@ -28,4 +28,4 @@ dev_
 * Prettier
 * GlobalStyle reset
 
-#### Do not use with Prettier - Code Formatter, it will break.
+#### Do not use with Prettier - Code Formatter extension, it will break.
