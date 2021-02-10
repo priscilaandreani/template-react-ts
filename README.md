@@ -6,7 +6,7 @@ dev_
 
 ### why?
 
-<p>Because I hate to do it every single time </p>
+<p>Because I hate to do it every single time. </p>
 
 
 ### tech
@@ -19,8 +19,6 @@ dev_
 ### libs
 
 * react-router-dom
-*
-*
 
 ---
 
@@ -28,5 +26,6 @@ dev_
 * EditorConfig
 * Eslint
 * Prettier
+* GlobalStyle reset
 
 #### Do not use with Prettier - Code Formatter, it will break.
