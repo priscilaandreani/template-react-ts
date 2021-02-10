@@ -28,3 +28,5 @@ dev_
 * EditorConfig
 * Eslint
 * Prettier
+
+#### Do not use with Prettier - Code Formatter, it will break.
