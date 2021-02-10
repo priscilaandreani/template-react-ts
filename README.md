@@ -19,6 +19,7 @@ dev_
 ### libs
 
 * react-router-dom
+* axios
 
 ---
 
