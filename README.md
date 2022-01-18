@@ -1,27 +1,22 @@
-## template react w/ typescript eslint prettier confs
+# Template React
 
-dev_
-@priscilaandreani
-
-
-### why?
-
+<h3>Why use a template?</h3>
 <p>Because I hate to do it every single time. </p>
+<h2></h2>
 
+### 💻  Tech
 
-### tech
+* React
+* Typescript
+* Styled-Components
+* Yarn
 
-* typescript
-* react
-* styledComponents
-* yarn
-
-### libs
+### 📚 Libs
 
 * react-router-dom
 * axios
 
----
+<h2></h2>
 
 * Create React App / Typescript
 * EditorConfig
@@ -29,4 +24,7 @@ dev_
 * Prettier
 * GlobalStyle reset
 
-#### Do not use with Prettier - Code Formatter extension, it will break.
+**Ps.: Do not use with Prettier - Code Formatter extension, it will break.**
+
+---
+Made with ❤️ by [@priscilaandreani](https://github.com/priscilaandreani). Feel free to contribute!
